@@ -8,7 +8,7 @@ from sentence_transformers import SentenceTransformer
 from llama_cpp import Llama
 from typing import List
 
-# Initialize FastAPI app
+# Initialize FastAPI 
 app = FastAPI()
 
 # Allow frontend requests
